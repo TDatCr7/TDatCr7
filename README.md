@@ -2,6 +2,8 @@
   TDatCr7 | GitHub Profile README
   Theme: Ocean Tech (Navy #0B2545 / Cyan #38BDF8)
   Edit only the links/content you want to share publicly.
+  Existing image: assets/profile.gif (keep your current file).
+  New animation: assets/trying-blue-flame.gif.
 -->
 
 <!-- OPTIONAL BANNER: upload your own file to assets/banner.gif (or .png),
@@ -11,13 +13,11 @@
 </p>
 -->
 
-
 <p align="center">
   <img src="./assets/profile.gif"
        alt="My animated pixel coding room"
        width="100%" />
 </p>
-
 
 <h1 align="center">Hey there! I'm Ngo Nguyen Tien Dat 👋</h1>
 
@@ -26,10 +26,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=54&amp;lines=Hello%2C+World%21+I%27m+Tien+Dat.;Building+Web+%26+Mobile+Applications.;Code.+Create.+Improve.+Repeat.;Trying+to+do+better." alt="Animated introduction to Tien Dat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=54&amp;lines=Hello%2C+World%21+I%27m+Tien+Dat.;Building+Web+%26+Mobile+Applications.;Code.+Create.+Improve.+Repeat." alt="Animated introduction to Tien Dat" />
 </p>
 
-<p align="center"><b>Trying to do better. 💙</b></p>
+<!-- Animated tagline: this GIF replaces the plain-text 'Trying to do better.' line. -->
+<p align="center">
+  <img src="./assets/trying-blue.gif"
+       alt="Trying to do better - animated blue flame"
+       width="720" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TDatCr7&amp;label=Profile+views&amp;color=0B2545&amp;style=flat" alt="Profile views" />
@@ -108,9 +113,7 @@
 
 <p align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20something%20is%20important%20enough,%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&author=Elon%20Musk"
-    alt="Elon Musk quote"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quote=When%20something%20is%20important%20enough%2C%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&amp;author=Elon%20Musk&amp;backgroundColor=0B2545&amp;quoteColor=EAF4FF&amp;authorColor=38BDF8&amp;symbolColor=7DD3FC"
+    alt="Elon Musk quote card"
   />
 </p>
-
-
