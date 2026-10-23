@@ -14,7 +14,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/profile.gif"
+  <img src="./assets/profile2.gif"
        alt="My animated pixel coding room"
        width="100%" />
 </p>
