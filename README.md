@@ -11,6 +11,14 @@
 </p>
 -->
 
+
+<p align="center">
+  <img src="./assets/profile.gif"
+       alt="My animated pixel coding room"
+       width="100%" />
+</p>
+
+
 <h1 align="center">Hey there! I'm Ngo Nguyen Tien Dat 👋</h1>
 
 <p align="center">
